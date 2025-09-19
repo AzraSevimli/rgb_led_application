@@ -3,7 +3,7 @@
 > **About this project:**  
 > This project demonstrates controlling an RGB LED with Arduino using PWM (`analogWrite()`).  
 > For the physical setup, we used inverted PWM values in code.  
-> It has been **simulated in TinkerCAD**, **designed in Fritzing**, and **tested in a physical environment**.
+> It has been **simulated in Tinkercad**, **designed in Fritzing**, and **tested in a physical environment**.
 
 ---
 
@@ -15,7 +15,7 @@
 > - In **Common Anode**, the common pin is connected to **+5V**.  
 
 We provide **two versions of the code**:  
-- **Common Cathode version** (used in TinkerCAD and Fritzing simulation)  
+- **Common Cathode version** (used in Tinkercad and Fritzing simulation)  
 - **Common Anode version** (used in our physical circuit)
 
 You can find them in the project folders:  
@@ -35,7 +35,7 @@ You can find them in the project folders:
 
 ---
 
-🖥️ TinkerCAD Simulation
+🖥️ Tinkercad Simulation
 
-You can test the **Common Cathode version** of this project on TinkerCAD:
-🔗 **[Open TinkerCAD Simulation](https://www.tinkercad.com/things/0ym6CoR9QcE-rgbledapplication?sharecode=yvVKB2bGHl2R26mH6tULPo4ljgXO41HlbDep6CyAYaQ)**
+You can test the **Common Cathode version** of this project on Tinkercad:
+🔗 **[Open Tinkercad Simulation](https://www.tinkercad.com/things/0ym6CoR9QcE-rgbledapplication?sharecode=yvVKB2bGHl2R26mH6tULPo4ljgXO41HlbDep6CyAYaQ)**
