@@ -3,7 +3,7 @@
 > **About this project:**  
 > This project demonstrates controlling an RGB LED with Arduino using PWM (`analogWrite()`).  
 > For the physical setup, we used inverted PWM values in code.  
-> It has been **simulated in Tinkercad**, **designed in Fritzing**, and **tested in a physical environment**.
+> It has been **simulated in Fritzing and Tinkercad** and **tested in a physical environment**.
 
 ---
 
